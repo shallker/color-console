@@ -22,6 +22,11 @@ colorConsole.red('you should see red text');
 colorConsole.green('you should see green text');
 ```
 
+## Test
+Browser side   
+http://shallker.github.io/color-console/test   
+
+
 ## API
 ### colorConsole
 #### .black(String text)
